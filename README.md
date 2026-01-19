@@ -19,8 +19,3 @@
        alt="github" width="40" height="40"/>
 </a> </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nandini1208&show_icons=true&locale=en&layout=compact" alt="nandini1208" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nandini1208&show_icons=true&locale=en" alt="nandini1208" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nandini1208&" alt="nandini1208" /></p>
